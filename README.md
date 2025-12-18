@@ -15,6 +15,9 @@
 
 Ideally suited for industrial maintenance, the system not only reconstructs 3D objects from 2D holographic noise but also uses the reconstruction to query technical manuals (RAG), acting as a "Shazam for Mechanics."
 
+
+Technical Deep Dive: https://www.youtube.com/watch?v=mJZOo8tbhRk
+
 ---
 
 ## 🧐 The "Why": The Phase Problem (ELI5)
